@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "110444825073",
+    "firebase_url": "https://kalawi-7e370.firebaseio.com",
+    "project_id": "kalawi-7e370",
+    "storage_bucket": "kalawi-7e370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110444825073:android:1ae9230ffb0dd63d",
+        "android_client_info": {
+          "package_name": "zobi.paulo.kalawi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110444825073-nefqvk0b2htq72lk2hjcictqpb51g734.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvw2mO_y1Vmx3VTPbng0rs11pNIJCPoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
